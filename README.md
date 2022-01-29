@@ -1,0 +1,2 @@
+# RecruitmentManagementSystemProjectDBMS
+6th Semester DBMS (18CSC303J) Mini-Project by RA1911003010602, RA1911003010620, RA1911003010622
