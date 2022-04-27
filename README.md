@@ -3,6 +3,6 @@
 Presented by:
 | Reg. No. | Name | GitHub Profile |
 |---|---|---|
-| RA1911003010602 | Pranav Khandelwal |  |
-| RA1911003010620 | Divit Kumar |  |
+| RA1911003010602 | Pranav Khandelwal | https://github.com/pranav05-srm |
+| RA1911003010620 | Divit Kumar | https://github.com/divitkumar |
 | RA1911003010622 | Arnav Sharma |  |
